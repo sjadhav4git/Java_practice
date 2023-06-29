@@ -4,7 +4,6 @@ public class ChartoAscii {
     }
 
     public static int charToAscii(char c){
-        int a = c;
-        return a;
+        return c;
     }
 }
